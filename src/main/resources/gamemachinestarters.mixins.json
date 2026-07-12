@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.pixelmon.gamemachinestarters.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "MixinStarterList",
+    "MixinTickHandler"
+  ],
+  "client": [
+    "client.MixinChooseStarterScreen",
+    "client.MixinStarterButton"
+  ],
+  "server": []
+}

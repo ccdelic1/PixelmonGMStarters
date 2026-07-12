@@ -1,0 +1,41 @@
+# NeoForge mod metadata for Pixelmon: Game Machine Starters
+modLoader="javafml"
+loaderVersion="[1,)"
+license="MIT"
+
+[[mods]]
+modId="gamemachinestarters"
+version="9.3.16.x.1"
+displayName="Pixelmon: Game Machine Starters"
+authors="CCDelic"
+logoFile="modico.png"
+description='''
+Replaces Pixelmon's starter selection screen with a slot-machine style picker:
+three reels spin and land on three randomly drawn Pokemon, and the player
+chooses one as their starter. Pool, rarity tiers, and modes are configurable.
+'''
+
+[[dependencies.gamemachinestarters]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.172,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.gamemachinestarters]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="NONE"
+side="BOTH"
+
+# Load after Pixelmon so our mixins apply to Pixelmon classes and its APIs are available.
+[[dependencies.gamemachinestarters]]
+modId="pixelmon"
+type="required"
+versionRange="[9.3,)"
+ordering="AFTER"
+side="BOTH"
+
+[[mixins]]
+config="gamemachinestarters.mixins.json"

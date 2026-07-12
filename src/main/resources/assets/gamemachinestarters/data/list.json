@@ -1,0 +1,1738 @@
+[
+  {
+    "pokemon_name": "Bulbasaur",
+    "bst": 318
+  },
+  {
+    "pokemon_name": "Charmander",
+    "bst": 309
+  },
+  {
+    "pokemon_name": "Squirtle",
+    "bst": 314
+  },
+  {
+    "pokemon_name": "Caterpie",
+    "bst": 195
+  },
+  {
+    "pokemon_name": "Weedle",
+    "bst": 195
+  },
+  {
+    "pokemon_name": "Pidgey",
+    "bst": 251
+  },
+  {
+    "pokemon_name": "Rattata",
+    "bst": 253
+  },
+  {
+    "pokemon_name": "Spearow",
+    "bst": 262
+  },
+  {
+    "pokemon_name": "Ekans",
+    "bst": 288
+  },
+  {
+    "pokemon_name": "Sandshrew",
+    "bst": 300
+  },
+  {
+    "pokemon_name": "Nidoranfemale",
+    "bst": 275
+  },
+  {
+    "pokemon_name": "Nidoranmale",
+    "bst": 273
+  },
+  {
+    "pokemon_name": "Vulpix",
+    "bst": 299
+  },
+  {
+    "pokemon_name": "Zubat",
+    "bst": 245
+  },
+  {
+    "pokemon_name": "Oddish",
+    "bst": 320
+  },
+  {
+    "pokemon_name": "Paras",
+    "bst": 285
+  },
+  {
+    "pokemon_name": "Venonat",
+    "bst": 305
+  },
+  {
+    "pokemon_name": "Diglett",
+    "bst": 265
+  },
+  {
+    "pokemon_name": "Meowth",
+    "bst": 290
+  },
+  {
+    "pokemon_name": "Psyduck",
+    "bst": 320
+  },
+  {
+    "pokemon_name": "Mankey",
+    "bst": 305
+  },
+  {
+    "pokemon_name": "Growlithe",
+    "bst": 350
+  },
+  {
+    "pokemon_name": "Poliwag",
+    "bst": 300
+  },
+  {
+    "pokemon_name": "Abra",
+    "bst": 310
+  },
+  {
+    "pokemon_name": "Machop",
+    "bst": 305
+  },
+  {
+    "pokemon_name": "Bellsprout",
+    "bst": 300
+  },
+  {
+    "pokemon_name": "Tentacool",
+    "bst": 335
+  },
+  {
+    "pokemon_name": "Geodude",
+    "bst": 300
+  },
+  {
+    "pokemon_name": "Ponyta",
+    "bst": 410
+  },
+  {
+    "pokemon_name": "Slowpoke",
+    "bst": 315
+  },
+  {
+    "pokemon_name": "Magnemite",
+    "bst": 325
+  },
+  {
+    "pokemon_name": "Farfetchd",
+    "bst": 377
+  },
+  {
+    "pokemon_name": "Doduo",
+    "bst": 310
+  },
+  {
+    "pokemon_name": "Seel",
+    "bst": 325
+  },
+  {
+    "pokemon_name": "Grimer",
+    "bst": 325
+  },
+  {
+    "pokemon_name": "Shellder",
+    "bst": 305
+  },
+  {
+    "pokemon_name": "Gastly",
+    "bst": 310
+  },
+  {
+    "pokemon_name": "Onix",
+    "bst": 385
+  },
+  {
+    "pokemon_name": "Drowzee",
+    "bst": 328
+  },
+  {
+    "pokemon_name": "Krabby",
+    "bst": 325
+  },
+  {
+    "pokemon_name": "RoaringMoon",
+    "bst": 590
+  },
+  {
+    "pokemon_name": "IronValiant",
+    "bst": 590
+  },
+  {
+    "pokemon_name": "WalkingWake",
+    "bst": 590
+  },
+  {
+    "pokemon_name": "Voltorb",
+    "bst": 330
+  },
+  {
+    "pokemon_name": "IronLeaves",
+    "bst": 590
+  },
+  {
+    "pokemon_name": "Poltchageist",
+    "bst": 308
+  },
+  {
+    "pokemon_name": "GougingFire",
+    "bst": 590
+  },
+  {
+    "pokemon_name": "RagingBolt",
+    "bst": 590
+  },
+  {
+    "pokemon_name": "IronBoulder",
+    "bst": 590
+  },
+  {
+    "pokemon_name": "IronCrown",
+    "bst": 590
+  },
+  {
+    "pokemon_name": "Browt",
+    "bst": 310
+  },
+  {
+    "pokemon_name": "Pombon",
+    "bst": 310
+  },
+  {
+    "pokemon_name": "Exeggcute",
+    "bst": 325
+  },
+  {
+    "pokemon_name": "Gecqua",
+    "bst": 310
+  },
+  {
+    "pokemon_name": "Cubone",
+    "bst": 320
+  },
+  {
+    "pokemon_name": "Lickitung",
+    "bst": 385
+  },
+  {
+    "pokemon_name": "Koffing",
+    "bst": 340
+  },
+  {
+    "pokemon_name": "Rhyhorn",
+    "bst": 345
+  },
+  {
+    "pokemon_name": "Tangela",
+    "bst": 435
+  },
+  {
+    "pokemon_name": "Kangaskhan",
+    "bst": 490
+  },
+  {
+    "pokemon_name": "Horsea",
+    "bst": 295
+  },
+  {
+    "pokemon_name": "Goldeen",
+    "bst": 320
+  },
+  {
+    "pokemon_name": "Staryu",
+    "bst": 340
+  },
+  {
+    "pokemon_name": "Scyther",
+    "bst": 500
+  },
+  {
+    "pokemon_name": "Pinsir",
+    "bst": 500
+  },
+  {
+    "pokemon_name": "Tauros",
+    "bst": 490
+  },
+  {
+    "pokemon_name": "Magikarp",
+    "bst": 200
+  },
+  {
+    "pokemon_name": "Lapras",
+    "bst": 535
+  },
+  {
+    "pokemon_name": "Ditto",
+    "bst": 288
+  },
+  {
+    "pokemon_name": "Eevee",
+    "bst": 325
+  },
+  {
+    "pokemon_name": "Porygon",
+    "bst": 395
+  },
+  {
+    "pokemon_name": "Omanyte",
+    "bst": 355
+  },
+  {
+    "pokemon_name": "Kabuto",
+    "bst": 355
+  },
+  {
+    "pokemon_name": "Aerodactyl",
+    "bst": 515
+  },
+  {
+    "pokemon_name": "Dratini",
+    "bst": 300
+  },
+  {
+    "pokemon_name": "Chikorita",
+    "bst": 318
+  },
+  {
+    "pokemon_name": "Cyndaquil",
+    "bst": 309
+  },
+  {
+    "pokemon_name": "Totodile",
+    "bst": 314
+  },
+  {
+    "pokemon_name": "Sentret",
+    "bst": 215
+  },
+  {
+    "pokemon_name": "Hoothoot",
+    "bst": 262
+  },
+  {
+    "pokemon_name": "Ledyba",
+    "bst": 265
+  },
+  {
+    "pokemon_name": "Spinarak",
+    "bst": 250
+  },
+  {
+    "pokemon_name": "Chinchou",
+    "bst": 330
+  },
+  {
+    "pokemon_name": "Pichu",
+    "bst": 205
+  },
+  {
+    "pokemon_name": "Cleffa",
+    "bst": 218
+  },
+  {
+    "pokemon_name": "Igglybuff",
+    "bst": 210
+  },
+  {
+    "pokemon_name": "Togepi",
+    "bst": 245
+  },
+  {
+    "pokemon_name": "Natu",
+    "bst": 320
+  },
+  {
+    "pokemon_name": "Mareep",
+    "bst": 280
+  },
+  {
+    "pokemon_name": "Hoppip",
+    "bst": 250
+  },
+  {
+    "pokemon_name": "Aipom",
+    "bst": 360
+  },
+  {
+    "pokemon_name": "Sunkern",
+    "bst": 180
+  },
+  {
+    "pokemon_name": "Yanma",
+    "bst": 390
+  },
+  {
+    "pokemon_name": "Wooper",
+    "bst": 210
+  },
+  {
+    "pokemon_name": "Murkrow",
+    "bst": 405
+  },
+  {
+    "pokemon_name": "Misdreavus",
+    "bst": 435
+  },
+  {
+    "pokemon_name": "Unown",
+    "bst": 336
+  },
+  {
+    "pokemon_name": "Girafarig",
+    "bst": 455
+  },
+  {
+    "pokemon_name": "Pineco",
+    "bst": 290
+  },
+  {
+    "pokemon_name": "Dunsparce",
+    "bst": 415
+  },
+  {
+    "pokemon_name": "Gligar",
+    "bst": 430
+  },
+  {
+    "pokemon_name": "Snubbull",
+    "bst": 300
+  },
+  {
+    "pokemon_name": "Qwilfish",
+    "bst": 440
+  },
+  {
+    "pokemon_name": "Shuckle",
+    "bst": 505
+  },
+  {
+    "pokemon_name": "Heracross",
+    "bst": 500
+  },
+  {
+    "pokemon_name": "Sneasel",
+    "bst": 430
+  },
+  {
+    "pokemon_name": "Teddiursa",
+    "bst": 330
+  },
+  {
+    "pokemon_name": "Slugma",
+    "bst": 250
+  },
+  {
+    "pokemon_name": "Swinub",
+    "bst": 250
+  },
+  {
+    "pokemon_name": "Corsola",
+    "bst": 410
+  },
+  {
+    "pokemon_name": "Remoraid",
+    "bst": 300
+  },
+  {
+    "pokemon_name": "Delibird",
+    "bst": 330
+  },
+  {
+    "pokemon_name": "Skarmory",
+    "bst": 465
+  },
+  {
+    "pokemon_name": "Houndour",
+    "bst": 330
+  },
+  {
+    "pokemon_name": "Phanpy",
+    "bst": 330
+  },
+  {
+    "pokemon_name": "Stantler",
+    "bst": 465
+  },
+  {
+    "pokemon_name": "Smeargle",
+    "bst": 250
+  },
+  {
+    "pokemon_name": "Tyrogue",
+    "bst": 210
+  },
+  {
+    "pokemon_name": "Smoochum",
+    "bst": 305
+  },
+  {
+    "pokemon_name": "Elekid",
+    "bst": 360
+  },
+  {
+    "pokemon_name": "Magby",
+    "bst": 365
+  },
+  {
+    "pokemon_name": "Miltank",
+    "bst": 490
+  },
+  {
+    "pokemon_name": "Larvitar",
+    "bst": 300
+  },
+  {
+    "pokemon_name": "Treecko",
+    "bst": 310
+  },
+  {
+    "pokemon_name": "Torchic",
+    "bst": 310
+  },
+  {
+    "pokemon_name": "Mudkip",
+    "bst": 310
+  },
+  {
+    "pokemon_name": "Poochyena",
+    "bst": 220
+  },
+  {
+    "pokemon_name": "Zigzagoon",
+    "bst": 240
+  },
+  {
+    "pokemon_name": "Wurmple",
+    "bst": 195
+  },
+  {
+    "pokemon_name": "Lotad",
+    "bst": 220
+  },
+  {
+    "pokemon_name": "Seedot",
+    "bst": 220
+  },
+  {
+    "pokemon_name": "Taillow",
+    "bst": 270
+  },
+  {
+    "pokemon_name": "Wingull",
+    "bst": 270
+  },
+  {
+    "pokemon_name": "Ralts",
+    "bst": 198
+  },
+  {
+    "pokemon_name": "Surskit",
+    "bst": 269
+  },
+  {
+    "pokemon_name": "Shroomish",
+    "bst": 295
+  },
+  {
+    "pokemon_name": "Slakoth",
+    "bst": 280
+  },
+  {
+    "pokemon_name": "Nincada",
+    "bst": 266
+  },
+  {
+    "pokemon_name": "Whismur",
+    "bst": 240
+  },
+  {
+    "pokemon_name": "Makuhita",
+    "bst": 237
+  },
+  {
+    "pokemon_name": "Azurill",
+    "bst": 190
+  },
+  {
+    "pokemon_name": "Nosepass",
+    "bst": 375
+  },
+  {
+    "pokemon_name": "Skitty",
+    "bst": 260
+  },
+  {
+    "pokemon_name": "Sableye",
+    "bst": 380
+  },
+  {
+    "pokemon_name": "Mawile",
+    "bst": 380
+  },
+  {
+    "pokemon_name": "Aron",
+    "bst": 330
+  },
+  {
+    "pokemon_name": "Meditite",
+    "bst": 280
+  },
+  {
+    "pokemon_name": "Electrike",
+    "bst": 295
+  },
+  {
+    "pokemon_name": "Plusle",
+    "bst": 405
+  },
+  {
+    "pokemon_name": "Minun",
+    "bst": 405
+  },
+  {
+    "pokemon_name": "Volbeat",
+    "bst": 430
+  },
+  {
+    "pokemon_name": "Illumise",
+    "bst": 430
+  },
+  {
+    "pokemon_name": "Gulpin",
+    "bst": 302
+  },
+  {
+    "pokemon_name": "Carvanha",
+    "bst": 305
+  },
+  {
+    "pokemon_name": "Wailmer",
+    "bst": 400
+  },
+  {
+    "pokemon_name": "Numel",
+    "bst": 305
+  },
+  {
+    "pokemon_name": "Torkoal",
+    "bst": 470
+  },
+  {
+    "pokemon_name": "Spoink",
+    "bst": 330
+  },
+  {
+    "pokemon_name": "Spinda",
+    "bst": 360
+  },
+  {
+    "pokemon_name": "Trapinch",
+    "bst": 290
+  },
+  {
+    "pokemon_name": "Cacnea",
+    "bst": 335
+  },
+  {
+    "pokemon_name": "Swablu",
+    "bst": 310
+  },
+  {
+    "pokemon_name": "Zangoose",
+    "bst": 458
+  },
+  {
+    "pokemon_name": "Seviper",
+    "bst": 458
+  },
+  {
+    "pokemon_name": "Lunatone",
+    "bst": 460
+  },
+  {
+    "pokemon_name": "Solrock",
+    "bst": 460
+  },
+  {
+    "pokemon_name": "Barboach",
+    "bst": 288
+  },
+  {
+    "pokemon_name": "Corphish",
+    "bst": 308
+  },
+  {
+    "pokemon_name": "Baltoy",
+    "bst": 300
+  },
+  {
+    "pokemon_name": "Lileep",
+    "bst": 355
+  },
+  {
+    "pokemon_name": "Anorith",
+    "bst": 355
+  },
+  {
+    "pokemon_name": "Feebas",
+    "bst": 200
+  },
+  {
+    "pokemon_name": "Castform",
+    "bst": 420
+  },
+  {
+    "pokemon_name": "Kecleon",
+    "bst": 440
+  },
+  {
+    "pokemon_name": "Shuppet",
+    "bst": 295
+  },
+  {
+    "pokemon_name": "Duskull",
+    "bst": 295
+  },
+  {
+    "pokemon_name": "Tropius",
+    "bst": 460
+  },
+  {
+    "pokemon_name": "Absol",
+    "bst": 465
+  },
+  {
+    "pokemon_name": "Wynaut",
+    "bst": 260
+  },
+  {
+    "pokemon_name": "Snorunt",
+    "bst": 300
+  },
+  {
+    "pokemon_name": "Spheal",
+    "bst": 290
+  },
+  {
+    "pokemon_name": "Clamperl",
+    "bst": 345
+  },
+  {
+    "pokemon_name": "Relicanth",
+    "bst": 485
+  },
+  {
+    "pokemon_name": "Luvdisc",
+    "bst": 330
+  },
+  {
+    "pokemon_name": "Bagon",
+    "bst": 300
+  },
+  {
+    "pokemon_name": "Beldum",
+    "bst": 300
+  },
+  {
+    "pokemon_name": "Turtwig",
+    "bst": 318
+  },
+  {
+    "pokemon_name": "Chimchar",
+    "bst": 309
+  },
+  {
+    "pokemon_name": "Piplup",
+    "bst": 314
+  },
+  {
+    "pokemon_name": "Starly",
+    "bst": 245
+  },
+  {
+    "pokemon_name": "Bidoof",
+    "bst": 250
+  },
+  {
+    "pokemon_name": "Kricketot",
+    "bst": 194
+  },
+  {
+    "pokemon_name": "Shinx",
+    "bst": 263
+  },
+  {
+    "pokemon_name": "Budew",
+    "bst": 280
+  },
+  {
+    "pokemon_name": "Cranidos",
+    "bst": 350
+  },
+  {
+    "pokemon_name": "Shieldon",
+    "bst": 350
+  },
+  {
+    "pokemon_name": "Burmy",
+    "bst": 224
+  },
+  {
+    "pokemon_name": "Combee",
+    "bst": 244
+  },
+  {
+    "pokemon_name": "Pachirisu",
+    "bst": 405
+  },
+  {
+    "pokemon_name": "Buizel",
+    "bst": 330
+  },
+  {
+    "pokemon_name": "Cherubi",
+    "bst": 275
+  },
+  {
+    "pokemon_name": "Shellos",
+    "bst": 325
+  },
+  {
+    "pokemon_name": "Drifloon",
+    "bst": 348
+  },
+  {
+    "pokemon_name": "Buneary",
+    "bst": 350
+  },
+  {
+    "pokemon_name": "Glameow",
+    "bst": 310
+  },
+  {
+    "pokemon_name": "Chingling",
+    "bst": 285
+  },
+  {
+    "pokemon_name": "Stunky",
+    "bst": 329
+  },
+  {
+    "pokemon_name": "Bronzor",
+    "bst": 300
+  },
+  {
+    "pokemon_name": "Bonsly",
+    "bst": 290
+  },
+  {
+    "pokemon_name": "MimeJr",
+    "bst": 310
+  },
+  {
+    "pokemon_name": "Happiny",
+    "bst": 220
+  },
+  {
+    "pokemon_name": "Chatot",
+    "bst": 411
+  },
+  {
+    "pokemon_name": "Spiritomb",
+    "bst": 485
+  },
+  {
+    "pokemon_name": "Gible",
+    "bst": 300
+  },
+  {
+    "pokemon_name": "Munchlax",
+    "bst": 390
+  },
+  {
+    "pokemon_name": "Riolu",
+    "bst": 285
+  },
+  {
+    "pokemon_name": "Hippopotas",
+    "bst": 330
+  },
+  {
+    "pokemon_name": "Skorupi",
+    "bst": 330
+  },
+  {
+    "pokemon_name": "Croagunk",
+    "bst": 300
+  },
+  {
+    "pokemon_name": "Carnivine",
+    "bst": 454
+  },
+  {
+    "pokemon_name": "Finneon",
+    "bst": 330
+  },
+  {
+    "pokemon_name": "Mantyke",
+    "bst": 345
+  },
+  {
+    "pokemon_name": "Snover",
+    "bst": 334
+  },
+  {
+    "pokemon_name": "Rotom",
+    "bst": 440
+  },
+  {
+    "pokemon_name": "Snivy",
+    "bst": 308
+  },
+  {
+    "pokemon_name": "Tepig",
+    "bst": 308
+  },
+  {
+    "pokemon_name": "Oshawott",
+    "bst": 308
+  },
+  {
+    "pokemon_name": "Patrat",
+    "bst": 255
+  },
+  {
+    "pokemon_name": "Lillipup",
+    "bst": 275
+  },
+  {
+    "pokemon_name": "Purrloin",
+    "bst": 281
+  },
+  {
+    "pokemon_name": "Pansage",
+    "bst": 316
+  },
+  {
+    "pokemon_name": "Pansear",
+    "bst": 316
+  },
+  {
+    "pokemon_name": "Panpour",
+    "bst": 316
+  },
+  {
+    "pokemon_name": "Munna",
+    "bst": 292
+  },
+  {
+    "pokemon_name": "Pidove",
+    "bst": 264
+  },
+  {
+    "pokemon_name": "Blitzle",
+    "bst": 295
+  },
+  {
+    "pokemon_name": "Roggenrola",
+    "bst": 280
+  },
+  {
+    "pokemon_name": "Woobat",
+    "bst": 323
+  },
+  {
+    "pokemon_name": "Drilbur",
+    "bst": 328
+  },
+  {
+    "pokemon_name": "Audino",
+    "bst": 445
+  },
+  {
+    "pokemon_name": "Timburr",
+    "bst": 305
+  },
+  {
+    "pokemon_name": "Tympole",
+    "bst": 294
+  },
+  {
+    "pokemon_name": "Throh",
+    "bst": 465
+  },
+  {
+    "pokemon_name": "Sawk",
+    "bst": 465
+  },
+  {
+    "pokemon_name": "Sewaddle",
+    "bst": 310
+  },
+  {
+    "pokemon_name": "Venipede",
+    "bst": 260
+  },
+  {
+    "pokemon_name": "Cottonee",
+    "bst": 280
+  },
+  {
+    "pokemon_name": "Petilil",
+    "bst": 280
+  },
+  {
+    "pokemon_name": "Basculin",
+    "bst": 460
+  },
+  {
+    "pokemon_name": "Sandile",
+    "bst": 292
+  },
+  {
+    "pokemon_name": "Darumaka",
+    "bst": 315
+  },
+  {
+    "pokemon_name": "Maractus",
+    "bst": 461
+  },
+  {
+    "pokemon_name": "Dwebble",
+    "bst": 325
+  },
+  {
+    "pokemon_name": "Scraggy",
+    "bst": 348
+  },
+  {
+    "pokemon_name": "Sigilyph",
+    "bst": 490
+  },
+  {
+    "pokemon_name": "Yamask",
+    "bst": 303
+  },
+  {
+    "pokemon_name": "Tirtouga",
+    "bst": 355
+  },
+  {
+    "pokemon_name": "Archen",
+    "bst": 401
+  },
+  {
+    "pokemon_name": "Trubbish",
+    "bst": 329
+  },
+  {
+    "pokemon_name": "Zorua",
+    "bst": 330
+  },
+  {
+    "pokemon_name": "Minccino",
+    "bst": 300
+  },
+  {
+    "pokemon_name": "Gothita",
+    "bst": 290
+  },
+  {
+    "pokemon_name": "Solosis",
+    "bst": 290
+  },
+  {
+    "pokemon_name": "Ducklett",
+    "bst": 305
+  },
+  {
+    "pokemon_name": "Vanillite",
+    "bst": 305
+  },
+  {
+    "pokemon_name": "Deerling",
+    "bst": 335
+  },
+  {
+    "pokemon_name": "Emolga",
+    "bst": 428
+  },
+  {
+    "pokemon_name": "Karrablast",
+    "bst": 315
+  },
+  {
+    "pokemon_name": "Foongus",
+    "bst": 294
+  },
+  {
+    "pokemon_name": "Frillish",
+    "bst": 335
+  },
+  {
+    "pokemon_name": "Alomomola",
+    "bst": 470
+  },
+  {
+    "pokemon_name": "Joltik",
+    "bst": 319
+  },
+  {
+    "pokemon_name": "Ferroseed",
+    "bst": 305
+  },
+  {
+    "pokemon_name": "Klink",
+    "bst": 300
+  },
+  {
+    "pokemon_name": "Tynamo",
+    "bst": 275
+  },
+  {
+    "pokemon_name": "Elgyem",
+    "bst": 335
+  },
+  {
+    "pokemon_name": "Litwick",
+    "bst": 275
+  },
+  {
+    "pokemon_name": "Axew",
+    "bst": 320
+  },
+  {
+    "pokemon_name": "Cubchoo",
+    "bst": 305
+  },
+  {
+    "pokemon_name": "Cryogonal",
+    "bst": 515
+  },
+  {
+    "pokemon_name": "Shelmet",
+    "bst": 305
+  },
+  {
+    "pokemon_name": "Stunfisk",
+    "bst": 471
+  },
+  {
+    "pokemon_name": "Mienfoo",
+    "bst": 350
+  },
+  {
+    "pokemon_name": "Druddigon",
+    "bst": 485
+  },
+  {
+    "pokemon_name": "Golett",
+    "bst": 303
+  },
+  {
+    "pokemon_name": "Pawniard",
+    "bst": 340
+  },
+  {
+    "pokemon_name": "Bouffalant",
+    "bst": 490
+  },
+  {
+    "pokemon_name": "Rufflet",
+    "bst": 350
+  },
+  {
+    "pokemon_name": "Vullaby",
+    "bst": 370
+  },
+  {
+    "pokemon_name": "Heatmor",
+    "bst": 484
+  },
+  {
+    "pokemon_name": "Durant",
+    "bst": 484
+  },
+  {
+    "pokemon_name": "Deino",
+    "bst": 300
+  },
+  {
+    "pokemon_name": "Larvesta",
+    "bst": 360
+  },
+  {
+    "pokemon_name": "Chespin",
+    "bst": 313
+  },
+  {
+    "pokemon_name": "Fennekin",
+    "bst": 307
+  },
+  {
+    "pokemon_name": "Froakie",
+    "bst": 314
+  },
+  {
+    "pokemon_name": "Bunnelby",
+    "bst": 237
+  },
+  {
+    "pokemon_name": "Fletchling",
+    "bst": 278
+  },
+  {
+    "pokemon_name": "Scatterbug",
+    "bst": 200
+  },
+  {
+    "pokemon_name": "Litleo",
+    "bst": 369
+  },
+  {
+    "pokemon_name": "Flabebe",
+    "bst": 303
+  },
+  {
+    "pokemon_name": "Skiddo",
+    "bst": 350
+  },
+  {
+    "pokemon_name": "Pancham",
+    "bst": 348
+  },
+  {
+    "pokemon_name": "Furfrou",
+    "bst": 472
+  },
+  {
+    "pokemon_name": "Espurr",
+    "bst": 355
+  },
+  {
+    "pokemon_name": "Honedge",
+    "bst": 325
+  },
+  {
+    "pokemon_name": "Spritzee",
+    "bst": 341
+  },
+  {
+    "pokemon_name": "Swirlix",
+    "bst": 341
+  },
+  {
+    "pokemon_name": "Inkay",
+    "bst": 288
+  },
+  {
+    "pokemon_name": "Binacle",
+    "bst": 306
+  },
+  {
+    "pokemon_name": "Skrelp",
+    "bst": 320
+  },
+  {
+    "pokemon_name": "Clauncher",
+    "bst": 330
+  },
+  {
+    "pokemon_name": "Helioptile",
+    "bst": 289
+  },
+  {
+    "pokemon_name": "Tyrunt",
+    "bst": 362
+  },
+  {
+    "pokemon_name": "Amaura",
+    "bst": 362
+  },
+  {
+    "pokemon_name": "Hawlucha",
+    "bst": 500
+  },
+  {
+    "pokemon_name": "Dedenne",
+    "bst": 431
+  },
+  {
+    "pokemon_name": "Carbink",
+    "bst": 500
+  },
+  {
+    "pokemon_name": "Goomy",
+    "bst": 300
+  },
+  {
+    "pokemon_name": "Klefki",
+    "bst": 470
+  },
+  {
+    "pokemon_name": "Phantump",
+    "bst": 309
+  },
+  {
+    "pokemon_name": "Pumpkaboo",
+    "bst": 335
+  },
+  {
+    "pokemon_name": "Bergmite",
+    "bst": 304
+  },
+  {
+    "pokemon_name": "Noibat",
+    "bst": 245
+  },
+  {
+    "pokemon_name": "Rowlet",
+    "bst": 320
+  },
+  {
+    "pokemon_name": "Litten",
+    "bst": 320
+  },
+  {
+    "pokemon_name": "Popplio",
+    "bst": 320
+  },
+  {
+    "pokemon_name": "Pikipek",
+    "bst": 265
+  },
+  {
+    "pokemon_name": "Yungoos",
+    "bst": 253
+  },
+  {
+    "pokemon_name": "Grubbin",
+    "bst": 300
+  },
+  {
+    "pokemon_name": "Crabrawler",
+    "bst": 338
+  },
+  {
+    "pokemon_name": "Oricorio",
+    "bst": 476
+  },
+  {
+    "pokemon_name": "Cutiefly",
+    "bst": 304
+  },
+  {
+    "pokemon_name": "Rockruff",
+    "bst": 280
+  },
+  {
+    "pokemon_name": "Wishiwashi",
+    "bst": 175
+  },
+  {
+    "pokemon_name": "Mareanie",
+    "bst": 305
+  },
+  {
+    "pokemon_name": "Mudbray",
+    "bst": 385
+  },
+  {
+    "pokemon_name": "Dewpider",
+    "bst": 269
+  },
+  {
+    "pokemon_name": "Fomantis",
+    "bst": 250
+  },
+  {
+    "pokemon_name": "Morelull",
+    "bst": 285
+  },
+  {
+    "pokemon_name": "Salandit",
+    "bst": 320
+  },
+  {
+    "pokemon_name": "Stufful",
+    "bst": 340
+  },
+  {
+    "pokemon_name": "Bounsweet",
+    "bst": 210
+  },
+  {
+    "pokemon_name": "Comfey",
+    "bst": 485
+  },
+  {
+    "pokemon_name": "Oranguru",
+    "bst": 490
+  },
+  {
+    "pokemon_name": "Passimian",
+    "bst": 490
+  },
+  {
+    "pokemon_name": "Wimpod",
+    "bst": 230
+  },
+  {
+    "pokemon_name": "Sandygast",
+    "bst": 320
+  },
+  {
+    "pokemon_name": "Pyukumuku",
+    "bst": 410
+  },
+  {
+    "pokemon_name": "Minior",
+    "bst": 440
+  },
+  {
+    "pokemon_name": "Komala",
+    "bst": 480
+  },
+  {
+    "pokemon_name": "Turtonator",
+    "bst": 485
+  },
+  {
+    "pokemon_name": "Togedemaru",
+    "bst": 435
+  },
+  {
+    "pokemon_name": "Mimikyu",
+    "bst": 476
+  },
+  {
+    "pokemon_name": "Bruxish",
+    "bst": 475
+  },
+  {
+    "pokemon_name": "Drampa",
+    "bst": 485
+  },
+  {
+    "pokemon_name": "Dhelmise",
+    "bst": 517
+  },
+  {
+    "pokemon_name": "Jangmo-o",
+    "bst": 300
+  },
+  {
+    "pokemon_name": "Grookey",
+    "bst": 310
+  },
+  {
+    "pokemon_name": "Scorbunny",
+    "bst": 310
+  },
+  {
+    "pokemon_name": "Sobble",
+    "bst": 310
+  },
+  {
+    "pokemon_name": "Skwovet",
+    "bst": 275
+  },
+  {
+    "pokemon_name": "Rookidee",
+    "bst": 245
+  },
+  {
+    "pokemon_name": "Blipbug",
+    "bst": 180
+  },
+  {
+    "pokemon_name": "Nickit",
+    "bst": 245
+  },
+  {
+    "pokemon_name": "Gossifleur",
+    "bst": 250
+  },
+  {
+    "pokemon_name": "Wooloo",
+    "bst": 270
+  },
+  {
+    "pokemon_name": "Chewtle",
+    "bst": 284
+  },
+  {
+    "pokemon_name": "Yamper",
+    "bst": 270
+  },
+  {
+    "pokemon_name": "Rolycoly",
+    "bst": 240
+  },
+  {
+    "pokemon_name": "Applin",
+    "bst": 260
+  },
+  {
+    "pokemon_name": "Silicobra",
+    "bst": 315
+  },
+  {
+    "pokemon_name": "Cramorant",
+    "bst": 475
+  },
+  {
+    "pokemon_name": "Arrokuda",
+    "bst": 280
+  },
+  {
+    "pokemon_name": "Toxel",
+    "bst": 242
+  },
+  {
+    "pokemon_name": "Sizzlipede",
+    "bst": 305
+  },
+  {
+    "pokemon_name": "Clobbopus",
+    "bst": 310
+  },
+  {
+    "pokemon_name": "Sinistea",
+    "bst": 308
+  },
+  {
+    "pokemon_name": "Hatenna",
+    "bst": 265
+  },
+  {
+    "pokemon_name": "Impidimp",
+    "bst": 265
+  },
+  {
+    "pokemon_name": "Milcery",
+    "bst": 270
+  },
+  {
+    "pokemon_name": "Falinks",
+    "bst": 470
+  },
+  {
+    "pokemon_name": "Pincurchin",
+    "bst": 435
+  },
+  {
+    "pokemon_name": "Snom",
+    "bst": 185
+  },
+  {
+    "pokemon_name": "Stonjourner",
+    "bst": 470
+  },
+  {
+    "pokemon_name": "Eiscue",
+    "bst": 470
+  },
+  {
+    "pokemon_name": "Indeedee",
+    "bst": 475
+  },
+  {
+    "pokemon_name": "Morpeko",
+    "bst": 436
+  },
+  {
+    "pokemon_name": "Cufant",
+    "bst": 330
+  },
+  {
+    "pokemon_name": "Dracozolt",
+    "bst": 505
+  },
+  {
+    "pokemon_name": "Arctozolt",
+    "bst": 505
+  },
+  {
+    "pokemon_name": "Dracovish",
+    "bst": 505
+  },
+  {
+    "pokemon_name": "Arctovish",
+    "bst": 505
+  },
+  {
+    "pokemon_name": "Duraludon",
+    "bst": 535
+  },
+  {
+    "pokemon_name": "Dreepy",
+    "bst": 270
+  },
+  {
+    "pokemon_name": "Sprigatito",
+    "bst": 310
+  },
+  {
+    "pokemon_name": "Fuecoco",
+    "bst": 310
+  },
+  {
+    "pokemon_name": "Quaxly",
+    "bst": 310
+  },
+  {
+    "pokemon_name": "Lechonk",
+    "bst": 254
+  },
+  {
+    "pokemon_name": "Tarountula",
+    "bst": 210
+  },
+  {
+    "pokemon_name": "Nymble",
+    "bst": 210
+  },
+  {
+    "pokemon_name": "Pawmi",
+    "bst": 240
+  },
+  {
+    "pokemon_name": "Tandemaus",
+    "bst": 305
+  },
+  {
+    "pokemon_name": "Fidough",
+    "bst": 312
+  },
+  {
+    "pokemon_name": "Smoliv",
+    "bst": 260
+  },
+  {
+    "pokemon_name": "Squawkabilly",
+    "bst": 417
+  },
+  {
+    "pokemon_name": "Nacli",
+    "bst": 280
+  },
+  {
+    "pokemon_name": "Charcadet",
+    "bst": 255
+  },
+  {
+    "pokemon_name": "Tadbulb",
+    "bst": 272
+  },
+  {
+    "pokemon_name": "Wattrel",
+    "bst": 280
+  },
+  {
+    "pokemon_name": "Maschiff",
+    "bst": 340
+  },
+  {
+    "pokemon_name": "Shroodle",
+    "bst": 290
+  },
+  {
+    "pokemon_name": "Bramblin",
+    "bst": 275
+  },
+  {
+    "pokemon_name": "Toedscool",
+    "bst": 335
+  },
+  {
+    "pokemon_name": "Klawf",
+    "bst": 450
+  },
+  {
+    "pokemon_name": "Capsakid",
+    "bst": 304
+  },
+  {
+    "pokemon_name": "Rellor",
+    "bst": 270
+  },
+  {
+    "pokemon_name": "Flittle",
+    "bst": 255
+  },
+  {
+    "pokemon_name": "Tinkatink",
+    "bst": 297
+  },
+  {
+    "pokemon_name": "Wiglett",
+    "bst": 245
+  },
+  {
+    "pokemon_name": "Bombirdier",
+    "bst": 485
+  },
+  {
+    "pokemon_name": "Finizen",
+    "bst": 315
+  },
+  {
+    "pokemon_name": "Varoom",
+    "bst": 300
+  },
+  {
+    "pokemon_name": "Cyclizar",
+    "bst": 501
+  },
+  {
+    "pokemon_name": "Orthworm",
+    "bst": 480
+  },
+  {
+    "pokemon_name": "Glimmet",
+    "bst": 350
+  },
+  {
+    "pokemon_name": "Greavard",
+    "bst": 290
+  },
+  {
+    "pokemon_name": "Flamigo",
+    "bst": 500
+  },
+  {
+    "pokemon_name": "Cetoddle",
+    "bst": 334
+  },
+  {
+    "pokemon_name": "Veluza",
+    "bst": 478
+  },
+  {
+    "pokemon_name": "Dondozo",
+    "bst": 530
+  },
+  {
+    "pokemon_name": "Tatsugiri",
+    "bst": 475
+  },
+  {
+    "pokemon_name": "Frigibax",
+    "bst": 320
+  },
+  {
+    "pokemon_name": "Gimmighoul",
+    "bst": 300
+  }
+]
