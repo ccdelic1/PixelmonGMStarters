@@ -1,2 +1,5 @@
-# PixelmonGMStarters
-Minecraft sidemod that makes Pixelmon starters random with a slotmachine-esque animation.
+https://modrinth.com/mod/
+
+Made by CCDelic
+
+Support the pixelmon mod here: https://pixelmonmod.com/)
